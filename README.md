@@ -1,2 +1,2 @@
 # licsoft
-temporary project to learn Spring and JavaFx
+temporary project to learn Maven, Spring, JPA, JavaFx, ...
